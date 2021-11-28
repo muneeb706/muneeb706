@@ -20,5 +20,5 @@ My expertise is in Full Stack Software Development from requirements analysis to
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muneeb706&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muneeb706&show_icons=true)   -->
 
