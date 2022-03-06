@@ -6,7 +6,7 @@ I enjoy working on new ideas and challenging projects that aim to create a posit
 
 My expertise is in Full Stack Software Development from requirements analysis to production. Throughout my career, I have used various tools and technologies depending on the requirements; currently, I am working with the following technology stack: Python, JavaScript, Django, React, AWS, PostgreSQL
 
-## Skills and Experience
+## Skills
 * Python, Django
 * JavaScript, React
 * Amazon Web Services
