@@ -9,7 +9,6 @@ My expertise is in Full Stack Software Development from requirements analysis to
 ## Skills and Experience
 * Python, Django
 * JavaScript, React
-* Java, Spring
 * Amazon Web Services
 * Databases (PostgreSQL, MongoDB)
 * HTML, CSS, Bootstrap
