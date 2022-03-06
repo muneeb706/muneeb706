@@ -10,9 +10,9 @@ My expertise is in Full Stack Software Development from requirements analysis to
 * Python, Django
 * JavaScript, React
 * Java, Spring
-* HTML, CSS
 * Amazon Web Services
-* Database
+* Databases (PostgreSQL, MongoDB)
+* HTML, CSS, Bootstrap
 
 <br>
 
