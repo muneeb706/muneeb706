@@ -4,7 +4,7 @@ I am a Full Stack Engineer, currently working to digitize the clinical trials pr
 
 I enjoy working on new ideas and challenging projects that aim to create a positive impact in the lives of people. This motivates me to employ and improve my communication, technical and analytical skills.
 
-My expertise is in Full Stack Software Development from requirements analysis to production. Throughout my career, I have used various tools and technologies depending on the requirements; currently, I am using the following technology stack: Python, JavaScript, Django, React, AWS, PostgreSQL
+My expertise is in Full Stack Software Development from requirements analysis to production. Throughout my career, I have used various tools and technologies depending on the requirements; currently, I am working with the following technology stack: Python, JavaScript, Django, React, AWS, PostgreSQL
 
 ## Skills and Experience
 * Python, Django
