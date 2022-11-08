@@ -1,10 +1,11 @@
 # Muneeb Shahid
 
-I am a Full Stack Engineer, currently working to digitize the clinical trials process for Alzheimer’s Therapeutic Research. I am working in the healthcare sector for the past couple of years and before that, I worked on the development of FinTech products.
+I am a Full Stack Engineer, currently working on digitizing the clinical trials process for Alzheimer's Therapeutic Research. Over the past three years, I have been engineering digital health applications and before that, I was developing FinTech products.
 
-I enjoy working on new ideas and challenging projects that aim to create a positive impact in the lives of people. This motivates me to employ and improve my communication, technical and analytical skills.
+I enjoy working on creative ideas and challenging projects that aim to create a positive impact on people's lives. This motivates me to employ and improve my communication, technical and analytical skills.
 
-My expertise is in Full Stack Software Development from requirements analysis to production. Throughout my career, I have used various tools and technologies depending on the requirements; currently, I am working with the following technology stack: Python, JavaScript, Django, React, AWS, PostgreSQL
+Providing complete software engineering services from requirements analysis to production is my area of expertise. I have used various tools and technologies throughout my career. 
+Currently, I am using Amazon Web Services, Django, Django REST framework, and PostgreSQL for backend infrastructure (ETL pipelines, APIs, Database, DevOps) development and React for the development of interactive graphical user interfaces.
 
 ## Skills
 * Python, Django
