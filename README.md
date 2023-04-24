@@ -1,6 +1,6 @@
 # Muneeb Shahid
 
-I am a Full Stack Engineer, currently working on digitizing the clinical trials process for Alzheimer's Therapeutic Research. Over the past three years, I have been engineering digital health applications and before that, I was developing FinTech products.
+I am a Software Engineer, currently working on digitizing the clinical trials process for Alzheimer's Therapeutic Research. Over the past three years, I have been engineering digital health applications and before that, I developed features for FinTech products.
 
 I enjoy working on creative ideas and challenging projects that aim to create a positive impact on people's lives. This motivates me to employ and improve my communication, technical and analytical skills.
 
