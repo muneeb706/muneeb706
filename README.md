@@ -2,7 +2,7 @@
 
 I am a Software Engineer who is driven by the desire to create quality software products that simplify and enhance people’s lives.
 
-<br><br>
+<br>
 
 | Backend  | Frontend | Database | Cloud & DevOps |
 | ------------- | ------------- | ------------- | ------------- |
