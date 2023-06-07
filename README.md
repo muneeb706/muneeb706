@@ -1,17 +1,11 @@
 # Muneeb Shahid
 
-I am a software engineer who is currently working on digitizing the clinical trials process for Alzheimer’s therapeutic research. I have experience in engineering digital health applications and FinTech products.
+I am a Software Engineer who is driven by the desire to create quality software products that simplify and enhance people’s lives.
 
-I enjoy working on creative ideas and challenging projects that aim to create a positive impact on people's lives. This motivates me to employ and improve my communication, technical and analytical skills.
+| Backend  | Frontend | Database | Cloud & DevOps |
+| ------------- | ------------- | ------------- | ------------- |
+|[![Backend](https://skillicons.dev/icons?i=py,django,flask&theme=light)](https://skillicons.dev)|[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind&theme=light)](https://skillicons.dev)|[![Database](https://skillicons.dev/icons?i=postgres,mongodb&theme=light)](https://skillicons.dev)|[![Cloud&DevOps](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)|
 
-Providing complete software engineering services from requirements analysis to production is my area of expertise. I have used various tools and technologies throughout my career. 
-Currently, I am using Amazon Web Services, Django, Django REST framework, and PostgreSQL for backend infrastructure (ETL pipelines, APIs, Database, DevOps) development and React for the development of interactive graphical user interfaces.
-
-<br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muneeb-shahid-87b825117/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/5891351/muneeb-shahid) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://muneebshahid.com/)
-
-<br>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muneeb706&show_icons=true)   -->
+| <a href="https://github.com/muneeb706/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muneeb706&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muneeb's github stats" /></a> | <a href="https://github.com/muneeb706/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb706&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
