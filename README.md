@@ -1,7 +1,5 @@
 # Muneeb Shahid
 
-As a Software Engineer, I'm passionate about crafting high-quality software that streamlines and enriches user experiences. My goal is to create impactful solutions that enhance everyday life.
-
 <br>
 
 | Backend  | Frontend | Database | Cloud & DevOps |
