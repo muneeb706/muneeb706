@@ -2,7 +2,13 @@
 
 Software Engineer
 
+### Visual Studio Code Extensions
+
+- [JSON Keys Remover](https://marketplace.visualstudio.com/items?itemName=muneeb706.json-keys-remover) - 224 Installs
+
 <br>
+
+### Technologies
 
 | Backend  | Frontend | Database | Cloud & DevOps | Testing |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
