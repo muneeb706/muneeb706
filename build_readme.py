@@ -16,10 +16,20 @@ def filter_vscode_extensions(repos):
     vscode_extensions = [repo for repo in repos if 'vscode-extension' in repo.get('topics', [])]
     return vscode_extensions
 
-
+def add_vscode_ext_repos(repos):
+    with open('README.md', 'r+') as f:
+        contents = f.read()
+        try:
+            index = contents.index('### Visual Studio Code Extensions\n')
+            print(f'Text already exists at index {index}')
+        except ValueError:
+            f.write('### Visual Studio Code Extensions\n')
+    # with open('README.md', 'w') as f:
+    #     f.write('### Visual Studio Code Extensions\n')
+    #     for repo in repos:
+    #         f.write(f'- [{repo["name"]}]({repo["homepage"]})\n')
+                    
 if __name__ == "__main__":
     repos = fetch_all_repos()
     vscode_ext_repos = filter_vscode_extensions(repos)
-    for repo in vscode_ext_repos:
-        print("Name", repo['name'])
-        print("Homepage", repo['homepage'])
+    add_vscode_ext_repos(vscode_ext_repos)
