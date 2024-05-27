@@ -31,3 +31,10 @@ jobs:
         MUNEEB706_TOKEN: ${{ secrets.MUNEEB706_TOKEN }}
       run: |-
         python build_readme.py
+    - name: Commit and Push (If updated)
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update README"
+          git push
