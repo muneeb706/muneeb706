@@ -1,5 +1,6 @@
 import os
 import requests
+from bs4 import BeautifulSoup
 
 TOKEN = os.environ.get("MUNEEB706_TOKEN", "")
 
@@ -19,7 +20,17 @@ def filter_vscode_extensions(repos):
 def add_vscode_ext_repos(repos):
     content = '### Visual Studio Code Extensions\n'
     for repo in repos:
-        content += f'- [{repo["name"]}]({repo["homepage"]})\n'
+        marketplace_url = repo["homepage"]
+        # retrieiving unique installs count
+        response = requests.get(marketplace_url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        span = soup.find('span', class_='installs-text')
+        installs = span.text if span else None
+        
+        content += f'- [{repo["name"]}]({marketplace_url})'
+        if installs:
+            content += f' - {installs}'
+
     return content
 
 def add_technologies():
