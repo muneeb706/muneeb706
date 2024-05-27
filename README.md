@@ -1,6 +1,5 @@
 ### Visual Studio Code Extensions
-- [json-keys-remover](https://marketplace.visualstudio.com/items?itemName=muneeb706.json-keys-remover)
-
+- [json-keys-remover](https://marketplace.visualstudio.com/items?itemName=muneeb706.json-keys-remover) -  224 installs
 ### Technologies
 
 | Backend  | Frontend | Database | Cloud & DevOps | Testing |
