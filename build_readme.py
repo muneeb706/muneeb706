@@ -20,4 +20,6 @@ def filter_vscode_extensions(repos):
 if __name__ == "__main__":
     repos = fetch_all_repos()
     vscode_ext_repos = filter_vscode_extensions(repos)
-    print(vscode_ext_repos)
+    for repo in vscode_ext_repos:
+        print("Name", repo['name'])
+        print("Homepage", repo['homepage'])
